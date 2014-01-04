@@ -1,4 +1,4 @@
-cygwin-mingw
+cygwin-mingw 环境配置
 ============
 
-cygwin下的mingw开发环境配置
+
